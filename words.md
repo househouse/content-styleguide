@@ -42,6 +42,7 @@
 - **sign up** as a verb (not “sign-up”)
 - **styleguide(s)** (not “style guide”)
 - **stylesheet(s)** (not “style sheet”)
+- **thank you** (not “thank-you”)
 - **third-party(ies)** (not “third party”)
 - **upfront** (not “up-front”)
 - **username** (not “user name”)
