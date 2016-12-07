@@ -2,6 +2,7 @@
 
 ## Specific words
 
+- **as-is** (not “as is”)
 - **back-end** (not “backend” or “back end”)
 - **coworker** (not “co-worker”)
 - **double-click** (not “double click”)
