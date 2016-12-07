@@ -53,14 +53,17 @@
 - **WiFi** (not “wi-fi;” always capitalize **W** and **F**)
 
 
-## Specific words to avoid
+## Specific words and phrases to avoid
 
-- funnel, incentivize, leverage, disruption, synergy, or other fluffy corporate terms
-- internets, interwebs, or any other variation of the word “internet”
-- ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
-- young, old, elderly, or any other word describing a person's age
-- crushing it, killing it, or other agressive words describing effort
-- crazy, insane, or similar words to describe people
+- Avoid being corporate: funnel, incentivize, leverage, disruption, synergy, or other fluffy, buzzwordy terms
+- Avoid being cutesy: internets, interwebs, or any other variation of the word “internet”
+- Avoid being aggressive: crushing it, killing it, or other agressive words describing effort
+- Avoid being ableist: nuts, bananas, crazy, insane, or similar words to describe people
+- Avoid being gender-specific: guys, buds, gals — perfer the gender-neutral term “they” and “their”
+- Avoid being age-specific: young, old, elderly, or any other terms describing a person's age
+- Avoid being aptitude-specific: ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
+
+*(Note: of course, sometimes it will be appropriate to make exceptions to these. Use discretion.)*
 
 
 ## Writing conventions
