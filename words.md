@@ -70,4 +70,3 @@
 - Multiplication symbol (“×”) instead of a standard “x.” (e.g. “`12px` × `40px`”)
 - Double-quote instead of single-quote for referring to another element. (e.g. “this.”)
 - Filenames as their extensions. (e.g. “.jpg,” “.pdf,” “.sketch,” etc.)
-
