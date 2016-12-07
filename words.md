@@ -1,4 +1,4 @@
-# House House Content and Language Guide
+# Content and Language Guide: Words
 
 ## Specific words
 
