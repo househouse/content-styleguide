@@ -76,3 +76,6 @@
 - Multiplication symbol (“×”) instead of a standard “x.” (e.g. “`12px` × `40px`”)
 - Double-quote instead of single-quote for referring to another element. (e.g. “this.”)
 - Filenames as their extensions. (e.g. “.jpg,” “.pdf,” “.sketch,” etc.)
+- Prefer the active tense instead of their gerund, where appropriate. (e.g. "Develop" not "Developing", "Developed" not "Was developing".)
+- Use the oxford comma. (e.g. "Lions, tigers, and bears" not "Lions, tigers and bears".)
+
