@@ -45,6 +45,7 @@
 - **stylesheet(s)** (not “style sheet”)
 - **thank you** (not “thank-you”)
 - **third-party(ies)** (not “third party”)
+- **tonne** (not “ton”)
 - **upfront** (not “up-front”)
 - **username** (not “user name”)
 - **versus** (not “vs” or “v.s.”)
